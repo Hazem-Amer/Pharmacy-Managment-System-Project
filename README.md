@@ -13,19 +13,19 @@
 - The software can print invoices, bills, receipts etc. It can also maintain the record of supplies sent in by the supplier.also it provides a barcode reader in order   to make it easy to add or remove medicines, it also contains a "Contradiction Alarm", which warns the seller if there were any medicine contradiction with the         patients
 
 #### The Design:
-- it consists of four main sections:
+- It consists of four main sections:
     - first section is text area which is responsable for presenting all the outputs or search results or any system responses.
     - second one is Database section which allows us to add, delete, search any of the pharmacies data.
     - The third section is the finance sections which allows us to add medicines to the bill by scanning their barcodes and also to choose from a list of some diseases       which contradicts with the medicines found in the pharmacies database.
     - And finally the fourth one is the Dashboard section which provides some statistics about the number of patients and medicines, also the medicines nearly to their       expiration date.
 ## Objectives:
 
-Primary objective:
+Real objective:
 
 - To gain practical experience by modeling a software based on real world problem.
 - To understand how to work with python,oop,tkinter for front end and Back-end (SQLite).
 
-Secondary objective:
+Imaginary objective:
 
 - To develop an application that deals with the day to day requirement of any pharmacy.
 - To develop the easy management of the medicines (drugs).
