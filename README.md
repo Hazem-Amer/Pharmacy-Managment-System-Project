@@ -1,24 +1,24 @@
 # Pharmacy-X Management System
-#### Video Demo:  <https://youtu.be/GCxGwAssh_o>
+#### Video Demo: <https://youtu.be/GCxGwAssh_o>
 
 #### INTRODUCTION:
-
-- The primary aim of pharmacy management system is to improve accuracy and enhance safety and efficiency in the pharmaceutical store. 
-- This project is insight into the design and implementation of a Pharmacy Management System.
+- This project provides insight into the design and implementation of a Pharmacy Management System and was developed as part of the Object-Oriented Programming (OOP) course during my second year at college.
 
 #### Description:
 
-- This program can be used in any pharmaceutical shops having a database to maintain. 
-- The software used can generate reports, as per the user’s requirements. 
-- The software can print invoices, bills, receipts etc. It can also maintain the record of supplies sent in by the supplier.also it provides a barcode reader in order   to make it easy to add or remove medicines, it also contains a "Contradiction Alarm", which warns the seller if there were any medicine contradiction with the         patients
+- This program can be used in any pharmaceutical shop that has a database to maintain.
+- The software can generate reports as per the user’s requirements.
+- It can print invoices, bills, receipts, etc., and maintain records of supplies sent by the supplier. It also provides a barcode reader to facilitate the addition or removal of medicines and includes a "Contradiction Alarm" to warn the seller of any medicine contradictions with the patient.
 
 #### The Design:
-- It consists of four main sections:
-    - first section is text area which is responsable for presenting all the outputs or search results or any system responses.
-    - second one is Database section which allows us to add, delete, search any of the pharmacies data.
-    - The third section is the finance sections which allows us to add medicines to the bill by scanning their barcodes and also to choose from a list of some diseases       which contradicts with the medicines found in the pharmacies database.
-    - And finally the fourth one is the Dashboard section which provides some statistics about the number of patients and medicines, also the medicines nearly to their       expiration date.
-## Objectives:
-- To gain practical experience by modeling a software based on real world problem.
-- To understand how to work with python,oop,tkinter for front end and Back-end (SQLite).
 
+- It consists of four main sections:
+    - **Text Area:** Responsible for presenting all the outputs, search results, or system responses.
+    - **Data Section:** Allows us to add, delete, and search any of the pharmacy's data.
+    - **Finance Section:** Allows us to add medicines to the bill by scanning their barcodes and choose from a list of diseases that contradict with the medicines found in the pharmacy's database.
+    - **Dashboard Section:** Provides statistics about the number of patients and medicines, and medicines nearing their expiration date.
+
+## Objectives:
+
+- To gain practical experience by modeling software based on a real-world problem.
+- To understand how to work with Python, OOP, and Tkinter for the front end, and SQLite for the back end.
