@@ -19,17 +19,6 @@
     - The third section is the finance sections which allows us to add medicines to the bill by scanning their barcodes and also to choose from a list of some diseases       which contradicts with the medicines found in the pharmacies database.
     - And finally the fourth one is the Dashboard section which provides some statistics about the number of patients and medicines, also the medicines nearly to their       expiration date.
 ## Objectives:
-
-Real objective:
-
 - To gain practical experience by modeling a software based on real world problem.
 - To understand how to work with python,oop,tkinter for front end and Back-end (SQLite).
 
-Imaginary objective:
-
-- To develop an application that deals with the day to day requirement of any pharmacy.
-- To develop the easy management of the medicines (drugs).
-- To handle the inventory details like sales details, purchase details and stock expiry and quantity.
-- To provide competitive advantage to the pharmacy.
-- To provide details information about the stock on details necessary and help locate it in shop easily.
-- To make the stock manageable and simplify the use of inventory in the pharmacy.
