@@ -1,5 +1,5 @@
 # Pharmacy-X Management System
-#### Video Demo: <https://youtu.be/GCxGwAssh_o>
+#### Video Demo: <https://youtu.be/FEG8futtY8o>
 
 #### INTRODUCTION:
 - This project provides insight into the design and implementation of a Pharmacy Management System and was developed as part of the Object-Oriented Programming (OOP) course during my second year at college.
